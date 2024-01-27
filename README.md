@@ -14,19 +14,17 @@ Setting koneksi ada di folder **koneksi** dan ada file koneksi.php. **Ganti user
 
 # Akses Login
 
-## Terdapat Dua Akses Login
+### Terdapat Dua Akses Login
 
 1. Admin
-   Username: admin
-   Password: admin
+   * Username: admin
+   * Password: admin
 2. User
-   Username: Coba
-   Password: Coba
+   * Username: Coba
+   * Password: Coba
    *Gunakan huruf kapital di awal
 
 # Tampilan
-
-# **Halaman Utama**
 
 * Login
 ![Gambar Tampilan Beranda](https://github.com/SaefudinZuhri1/FZRStore/blob/main/images/readme/Screenshot%20(8).png)
