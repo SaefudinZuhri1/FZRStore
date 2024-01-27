@@ -12,6 +12,28 @@ FZR Store adalah website penjualan sepatu kulit. Website ini dibuat untuk memenu
 
 Setting koneksi ada di folder **koneksi** dan ada file koneksi.php. **Ganti username, password, dan dbname nya**.
 
+# Fitur
+
+## Admin
+1. Mengelola Kategori
+2. Mengelola Produk
+3. Mengelola Admin
+4. Mengelola User
+5. Melihat Pembelian
+
+## User
+1. Melihat Produk
+2. Menambahkan Produk Ke Keranjang
+3. Keranjang
+4. Checkout
+
+# Fitur yang Belum Berhasil
+[x] Daftar
+[x] Lupa Password
+[x] Edit Produk di Halaman Admin
+[x] Checkout
+[x] Payment Gateaway    
+
 # Akses Login
 
 ### Terdapat Dua Akses Login
@@ -59,7 +81,8 @@ Setting koneksi ada di folder **koneksi** dan ada file koneksi.php. **Ganti user
 * Checkout
 ![Gambar Tampilan Checkout](https://github.com/SaefudinZuhri1/FZRStore/blob/main/images/readme/Screenshot%20(19).png)
 
-
+# Terima Kasih
+Apabila ingin bekerjasama dan ingin mengetahui hasil web nya ingin seperti apa. Anda dapat menghubungi melalui email zuhrisaeff12@gmail.com. Proyek ini dibuat untuk memenuhi tugas mata kuliah basis data. Dikerjakan secara kelompok, diantarannya Faisal Purnama, Saefudin Zuhri, dan Retta Cendana
 
 
 
