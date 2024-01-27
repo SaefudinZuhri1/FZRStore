@@ -48,7 +48,7 @@ Setting koneksi ada di folder **koneksi** dan ada file koneksi.php. **Ganti user
 2. User
    * Username: Coba
    * Password: Coba
-   *Gunakan huruf kapital di awal
+   * *Gunakan huruf kapital di awal
 
 # Tampilan
 
