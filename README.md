@@ -26,4 +26,4 @@ Setting koneksi ada di folder **koneksi** dan ada file koneksi.php. **Ganti user
 
 # Tampilan
 
-![Gambar Tampilan Beranda]()
+![Gambar Tampilan Beranda](https://github.com/SaefudinZuhri1/FZRStore/blob/main/images/readme/Screenshot%20(8).png)
