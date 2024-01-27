@@ -32,11 +32,11 @@ Setting koneksi ada di folder **koneksi** dan ada file koneksi.php. **Ganti user
 6. ✅ Logout
 
 # Fitur yang Belum Berhasil
-❌ Daftar
-❌ Lupa Password
-❌ Edit Produk di Halaman Admin
-❌ Checkout
-❌ Payment Gateaway    
+1. ❌ Daftar
+2. ❌ Lupa Password
+3. ❌ Edit Produk di Halaman Admin
+4. ❌ Checkout
+5. ❌ Payment Gateaway    
 
 # Akses Login
 
