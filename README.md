@@ -26,4 +26,44 @@ Setting koneksi ada di folder **koneksi** dan ada file koneksi.php. **Ganti user
 
 # Tampilan
 
+# **Halaman Utama**
+
+* Login
 ![Gambar Tampilan Beranda](https://github.com/SaefudinZuhri1/FZRStore/blob/main/images/readme/Screenshot%20(8).png)
+
+* Daftar
+![Gambar Tampilan Daftar](https://github.com/SaefudinZuhri1/FZRStore/blob/main/images/readme/Screenshot%20(9).png)
+
+* Masuk User
+![Gambar Tampilan Masuk User](https://github.com/SaefudinZuhri1/FZRStore/blob/main/images/readme/Screenshot%20(10).png)
+
+* Masuk Admin
+![Gambar Tampilan Masuk Admin](https://github.com/SaefudinZuhri1/FZRStore/blob/main/images/readme/Screenshot%20(11).png)
+
+* Tambah Kategori
+![Gambar Tampilan Tambah Kategori](https://github.com/SaefudinZuhri1/FZRStore/blob/main/images/readme/Screenshot%20(12).png)
+
+* Daftar Produk
+![Gambar Tampilan Daftar Produk](https://github.com/SaefudinZuhri1/FZRStore/blob/main/images/readme/Screenshot%20(13).png)
+
+* Detail Pembelian
+![Gambar Tampilan Detail Pembelian](https://github.com/SaefudinZuhri1/FZRStore/blob/main/images/readme/Screenshot%20(15).png)
+
+* Detail Pengguna
+![Gambar Tampilan Detail Pengguna](https://github.com/SaefudinZuhri1/FZRStore/blob/main/images/readme/Screenshot%20(16).png)
+
+* Detail Admin
+![Gambar Tampilan Detail Admin](https://github.com/SaefudinZuhri1/FZRStore/blob/main/images/readme/Screenshot%20(17).png)
+
+* Keranjang
+![Gambar Tampilan Keranjang](https://github.com/SaefudinZuhri1/FZRStore/blob/main/images/readme/Screenshot%20(18).png)
+
+* Checkout
+![Gambar Tampilan Checkout](https://github.com/SaefudinZuhri1/FZRStore/blob/main/images/readme/Screenshot%20(19).png)
+
+
+
+
+
+
+
