@@ -15,24 +15,28 @@ Setting koneksi ada di folder **koneksi** dan ada file koneksi.php. **Ganti user
 # Fitur
 
 ## Admin
-1. Mengelola Kategori
-2. Mengelola Produk
-3. Mengelola Admin
-4. Mengelola User
-5. Melihat Pembelian
+1. ✅ Mengelola Kategori
+2. ✅ Mengelola Produk
+3. ✅ Mengelola Admin
+4. ✅ Mengelola User
+5. ✅ Melihat Pembelian
+6. ✅ Login
+7. ✅ Logout
 
 ## User
-1. Melihat Produk
-2. Menambahkan Produk Ke Keranjang
-3. Keranjang
-4. Checkout
+1. ✅ Melihat Produk
+2. ✅ Menambahkan Produk Ke Keranjang
+3. ✅ Keranjang
+4. ✅ Checkout
+5. ✅ Login
+6. ✅ Logout
 
 # Fitur yang Belum Berhasil
-[x] Daftar
-[x] Lupa Password
-[x] Edit Produk di Halaman Admin
-[x] Checkout
-[x] Payment Gateaway    
+❌ Daftar
+❌ Lupa Password
+❌ Edit Produk di Halaman Admin
+❌ Checkout
+❌ Payment Gateaway    
 
 # Akses Login
 
